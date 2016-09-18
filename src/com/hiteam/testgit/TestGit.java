@@ -5,6 +5,7 @@ public class TestGit {
 		System.out.println("Hello World");
 		System.out.println("say again Hello World");  
 		System.out.println("say again again Hello World");  
+		System.out.println("这是第四次提交");
 	}
 
 }
